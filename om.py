@@ -1,1 +1,1 @@
-print("My first day in the company")
+print("My second day in the company")
